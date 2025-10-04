@@ -22,4 +22,3 @@ There is no need for contribution as it is an example.
 
 This is to compare working directory, staging area and the current branch/last commit/HEAD.
 
-## Compare
