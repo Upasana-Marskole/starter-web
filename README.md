@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 This is the simple introduction for the starter web project.
 
