@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 This is the simple introduction for the starter web project.
+Making changes for rebashing
 
 ## Purpose
 
